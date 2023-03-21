@@ -975,7 +975,7 @@ button {
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .header-navigation .site-branding {
-    max-width: 150px;
+    max-width: 250px;
   }
 }
 @media (max-width: 767px) {
