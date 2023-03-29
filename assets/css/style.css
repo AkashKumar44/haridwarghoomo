@@ -49,7 +49,7 @@ h6, .comments-area .comment .comment-wrap .comment-author-content span.author-na
 }
 
 .footer-default .copyright-area .copyright-nav ul li a:hover, .copyright-area .copyright-nav ul li a:hover, .contact-info-widget .contact-info-box p:hover a, .contact-info-widget .contact-info-box p i, .footer-nav-widget .footer-nav-content ul.footer-nav li a:hover, .footer-newsletter label i, .accommodation-form-three .nice-select:after, .accommodation-form-three label i, .accommodation-form-two .form_group label i, .accommodation-form .nice-select:after, .accommodation-form label, .contact-icon-box .icon i, .sidebar-widget-area .recent-post-widget .recent-post-list .post-thumbnail-content .post-title-date h5:hover, .sidebar-widget-area .recent-post-widget .recent-post-list .post-thumbnail-content .post-title-date span.posted-on:hover, .sidebar-widget-area .category-widget ul.category-nav li a:hover, .post-navigation-item .post-nav-item .content h6:hover, .blog-standard-post-item .entry-content h3.title:hover, .single-blog-post-item .entry-content h4.title:hover, .post-meta ul li span:hover, .accordion-card .accordion-header h4.accordion-title[aria-expanded=true]:after, .single-gallery-item .gallery-content .cat-link:hover, .gallery-filter-button .gallery-btn li.active, .single-service-item-three .text h3.title:hover, .single-service-item-two .text h4.title:hover, .single-service-item .text h3.title:hover, .vedhak-pagination ul li a.next-btn, .fancy-icon-box-three:hover .text .btn-link, .fancy-icon-box-two .icon-title .icon i, .fancy-icon-box .icon i, .features-left-icon-box-two .icon i, .features-thumb-item .text h4.title:hover, .counter-item-two .icon i, .counter-item .icon i, .experience-box .big-text h2.number, .hero-area-form .adventure-hero-form .nice-select:after, .hero-area-form .adventure-hero-form label i, .hero-slider-two .slick-arrow:hover, .btn-link:hover {
-  color: #63AC45;
+  color: #f7921e;
 }
 
 .play-wrapper-one .video-popup, .single-blog-post-item-two .entry-content .btn-link:hover, .single-blog-post-item-two .entry-content h4.title:hover, .acc-sidebar-area .trending-place-widget .place-widget-content .inner-content span i, .video-popup i, ul.ratings li i, .experience-box .big-text h2.number span.symbol, .hero-content .hero-button .btn-link:hover {
@@ -452,7 +452,7 @@ textarea.form_control {
 }
 
 .dark-green-bg {
-  background-color: #63AC45;
+  background-color: #f7921e;
 }
 
 .light-gray-bg {
@@ -489,7 +489,7 @@ button {
           margin-inline-start: 10px;
 }
 .main-btn.btn-green {
-  background-color: #63AC45;
+  background-color: #f7921e;
 }
 .main-btn.btn-green:hover {
   background-color: #1C231F;
@@ -1684,7 +1684,7 @@ button {
   width: 160px;
   height: 160px;
   border-radius: 50%;
-  background-color: #63AC45;
+  background-color: #f7921e;
   font-size: 80px;
   color: #fff;
 }
@@ -3842,7 +3842,7 @@ ul.check-style-two.check-width-50 {
   font-weight: 500;
   font-size: 18px;
   line-height: 24px;
-  background-color: #63AC45;
+  background-color: #f7921e;
   color: #fff;
   border-radius: 30px;
   padding: 8px 25px;
