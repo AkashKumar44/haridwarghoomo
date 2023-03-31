@@ -891,7 +891,7 @@ button {
 
 /* Top Bar CSS */
 .top-bar {
-  padding: 11px 70px;
+  padding: 6px 70px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .top-bar {
@@ -2222,17 +2222,23 @@ ul.check-style-two.check-width-50 {
   position: relative;
   z-index: 1;
   -webkit-margin-start: 40px;
-          margin-inline-start: 40px;
+  margin-inline-start: 40px;
   margin-bottom: -50px;
   width: 100px;
   height: 100px;
-  border-radius: 12px;
+  border-radius: 13px;
   background-color: #63AC45;
   color: #fff;
 }
 .fancy-icon-box-three .icon i {
   font-size: 60px;
 }
+.fancy-icon-box-three .icon img{    
+  border-radius: 13px;
+  height: 100px;
+  width: 100px;
+}
+
 .fancy-icon-box-three .text {
   position: relative;
   padding: 85px 27px 25px 40px;
@@ -2260,6 +2266,7 @@ ul.check-style-two.check-width-50 {
   border-bottom: 1px solid rgba(28, 35, 31, 0.1);
   padding-bottom: 32px;
   margin-bottom: 13px;
+  height: 210px !important;
 }
 
 /* Pagination */
