@@ -1676,17 +1676,18 @@ button {
   }
 }
 .about-one_image-box .icon-box {
-  position: absolute;
-  top: 50%;
-  left: 53%;
-  -webkit-transform: translate(-53%, -50%);
-  transform: translate(-53%, -50%);
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  background-color: #f7921e;
-  font-size: 80px;
-  color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 53%;
+    -webkit-transform: translate(-53%, -50%);
+    transform: translate(-53%, -50%);
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    /* box-shadow: 0 5px 7px; */
+    background-color: #e4e4e4;
+    font-size: 80px;
+    color: #fff;
 }
 @media (max-width: 767px) {
   .about-one_image-box .icon-box {
