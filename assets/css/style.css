@@ -1,11 +1,16 @@
-@charset "UTF-8";
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+  .primary-menu {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
 /*-----------------------------------------------------------------------------------
 
-    Template Name: Vedhak - Adventure Tours and Travel HTML Template
+    Template Name: infinitycoder - Adventure Tours and Travel HTML Template
     Template URI: site.com
-    Description: Vedhak is a modern Adventure Tours and Travel HTML Template designed for all activities, sports, hiking, or outdoor adventures.
-    Author: WebTend 
-    Author URI: https://webtend.net/
+    Description: infinitycoder is a modern Adventure Tours and Travel HTML Template designed for all activities, sports, hiking, or outdoor adventures.
+    Author: infinitycoder 
+    Author URI: https://infinitycoder.in/
     Version: 1.0
 
 --------------------------
